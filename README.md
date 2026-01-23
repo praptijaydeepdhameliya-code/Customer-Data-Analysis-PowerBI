@@ -9,10 +9,10 @@ to support data-driven business decisions.
 ---
 
 ## 📂 Project Structure
-- **PowerBI/** → Cleaned data model and interactive dashboard (.pbix)
-- **Sql_Queries/** → SQL queries used for analysis
+- **clean_data** → Cleaned data model (.pbix)
+- **project_sql** → SQL queries used for analysis
 - **Presentation/** → Business explanation PPT
-
+- **dashboard** → interactive dashboard (.pbix)
 ---
 
 ## 🧹 Data Cleaning (Power BI)
